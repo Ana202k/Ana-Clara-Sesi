@@ -1,15 +1,15 @@
 Algoritmo "Academia"
 //
 //
-// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
+// Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 05/03/2024
 Var
-   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
+   // Seção de Declarações das variáveis
    min, r: caractere
 
 Inicio
-   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
+   // Seção de Comandos, procedimento, funções, operadores, etc...
    escreval("Selecione a seguir quantos minutos durou sua pratica:")
    escreval("15 minutos")
    escreval("30 minutos")
@@ -17,6 +17,7 @@ Inicio
    escreval("1 hora e 30 minutos")
    escreval("2 horas")
    leia(minutos)
+
    escreval("Classificacao da sua pratica:")
    se minutos = "15 minutos" entao
       escreval("Voce perdeu 170 calorias!")
