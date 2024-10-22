@@ -1,0 +1,27 @@
+levantamento de requisitos - (07/02/24)
+
+01. Criação de Caso de uso:
+  -atores envolvidos: cliente(usuários);empresa(FoodExpress).
+  - interações entre os atores: cliente:(Chegar ao restaurante;Visualizar cardapio;fazer pedido;realizar o pagamento; retirar o pedido) empresa:(receber pedido; cadastrar cliente + pedido no app; confirmar pedido; realizar pedido; receber pagamento; entregar pedido).
+   - caso de uso: 
+02. Levantamento de Requesitos:
+   - requesitos funcionais e nao funcionais: req.funcionais(cadastar pedido; efetuar pagamento; 
+req. nao funcionais(cardapio legivel; opção de pagamento; exibir mapa de processo e localização)
+   - aspctos: selecionar restaurantes mas proximos de seu localização atual ou com avaliação superior, exibir promoções do cardápio, escolhas mais famosas entre os clientes, verificar a compra, incluir a taxa de entrega (se for o caso) e exibir as opções de pagamento (cartão, dinheiro, pix...), após a entrega ou retirada do pedido solicitar avaliação do estabelecimento
+
+nome| Aplicativo de comida
+atores| cliente e empresa
+pré-condições| possuir o app instalado no dispositivo eletronico
+pós-condicoes| realizar pedido desejado 
+fluxo pricipal
+ações do ator:           ações do sistema
+01. realizar pedido      01. realizar o pedido feito pelo cliente
+02. efetuar pagamento    02. receber pagamento
+03. retirar pedido       03. entregar pedido
+fluxo alternativo(1)
+erro no pedido, refazer
+fluxo alternativo(2)
+ocorrer atraso no pedido, entrar em contato com a empressa pelo app
+fluxo alternativo(3)
+
+

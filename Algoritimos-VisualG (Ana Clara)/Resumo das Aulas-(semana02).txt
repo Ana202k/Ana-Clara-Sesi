@@ -1,0 +1,110 @@
+Design thinking é um processo inovador que expande as capacidades criativas de solução de
+problemas por meio da compreensão das necessidades dos usuários
+
+matriz fofa= forças e fraquezas
+
+DIAGRAMA DE AFINIDADE
+É uma técnica de brainstorming em que todas as ideias são listadas, e ideias semelhantes são
+agrupadas. Finalmente cada grupo é intitulado e recebe subconjuntos.
+
+DESIGN THINKING
+ETAPAS:
+-Teste: Os protótipos são apresentados aos usuários para coletar feedback valioso.
+-Implementação: Após a refinamento com base no feedback do teste, a solução final é
+implementada.
+
+PILARES DO DESIGN THINKING
+
+01.Empatia:Compreender as necessidades e motivações dos usuários por meio de entrevistas,observação e imersão.
+02.Definição do problema:Identificar claramente o desafio a ser solucionado, definindo o escopo e os objetivos do projeto.
+03.Ideação:Gerar um grande volume de ideias por meio de dinâmicas colaborativas e técnicas criativas. 
+---------------------------------------------------------------------------------------------------------------------
+logica de programacao e algoritimos
+Programação é o processo de criar e implementar
+algoritmos usando linguagens de programação, para
+que um computador possa realizar tarefas específicas.
+É uma maneira sistemática de expressar instruções
+através de códigos para que máquinas possam operar,
+resolver problemas, ou realizar tarefas automatizadas
+de maneira eficiente.
+
+fundamentos- linguagem de Programação
+Quais são as características?
+As linguagens de programação possuem diferentes características, como tipagem
+(forte ou fraca), paradigmas (procedural, orientado a objetos, funcional, entre
+outros), sintaxe (regras de escrita), entre outros.
+
+Quais são os tipos?
+Compilada:Uma linguagem compilada é aquela em que o código-fonte é transformado em um programa executável antes de ser executado. Isso significa que o código é traduzido integralmente antes da execução, resultando em um programa independente que pode ser executado diretamente pelo
+computador.
+Interpretada:Uma linguagem interpretada é aquela em que o código é executado linha por linha, em tempo real, por um programa chamado "interpretador". Em vez de gerar um programa executável separado, o interpretador lê e executa o código-fonte diretamente.
+
+algoritimo-Um algoritmo é uma sequência de instruções lógicas que descrevem uma solução para um
+problema. Na lógica de programação orientada a objetos, os algoritmos são construídos
+considerando objetos, suas propriedades e métodos.
+
+variaveis- As variáveis são espaços de memória que armazenam valores temporariamente durante a
+execução do programa. Elas podem armazenar informações como números, textos e
+objetos.
+
+constantes-As constantes são valores fixos que não podem ser alterados durante a execução do
+programa.
+
+O fluxograma ou a representação do fluxo é a maneira usada para
+representar graficamente a sequência de passos que soluciona um
+problema.
+ ---------------------------------------------------------------------
+Fundamentos de redes
+definição- A arquitetura de rede é organizada em camadas, módulos específicos
+e bem definidos que entregam o mesmo serviço e recebem o mesmo
+serviço. Cada uma delas possui uma tarefa bem definida.
+A estrutura da rede pode ser classificada em três tipos: De roteadores,
+de clientes e híbridas.
+
+rede: cliente servidor
+Em uma rede cliente/servidor as funções de
+ambos são bem definidas. O servidor tem a
+função de fornecer algum serviço ou recurso
+para os seus clientes da rede, enquanto que o
+cliente tem a única função de utilizar os
+serviços e recursos oferecidos pelo servidor.Um servidor sempre vai se comportar como
+um servidor e o cliente, sempre como um
+cliente. Veja, na figura a seguir, a
+demonstração de uma rede cliente/servidor.
+
+rede: de ponto a ponto.
+Em uma rede ponto a ponto, as funções
+de cliente e servidor não são bem
+definidas, ou seja, em um momento um
+dispositivo poderá fazer o papel de
+servidor e, logo após, poderá fazer o
+papel de um cliente.
+
+tecnologia das redes: wan; man; lan; pan;
+tecnologia de redes: pan 
+Uma rede PAN (Personal Area Network) é uma rede
+doméstica que liga dispositivos ao alcance de um
+indivíduo. As PANs conectam dispositivos eletrônicos dentro da área imediata de um usuário. O tamanho de uma PAN
+varia de alguns centímetros a alguns metros
+
+tecnologia de redes: lan
+Local Área Network (LAN) é o nome dado para uma rede de
+computadores, quando esta se restringe a um mesmo local físico,
+por exemplo, a uma empresa, uma casa ou um escritório.
+Uma rede LAN pode ser cabeada ou wireless.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

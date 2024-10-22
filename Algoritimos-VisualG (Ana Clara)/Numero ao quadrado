@@ -1,0 +1,19 @@
+Algoritmo "Maior de tres numeros"
+// 
+//  
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 20/02/2024
+Var
+// Seção de Declarações das variáveis 
+n1, n2, n3, maior : real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva(" Digite um numero:")
+leia(n1)
+escreva(" Resultado:", n1*n1)
+leia(resultado)
+
+
+Fimalgoritmo

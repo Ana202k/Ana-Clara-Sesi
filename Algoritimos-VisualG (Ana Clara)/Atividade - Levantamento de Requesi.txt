@@ -1,0 +1,54 @@
+Atividade - Levantamento de Requesitos.
+Formativa 02- 20/02/2024
+
+Levantamento de Requesitos:
+01. Stakeholders:
+- Inicialmente as pricipais pessoas interessadas como usuarios seriam as criancas e adolecentes, que atualmente se interessam muito com esses tipos de jogos em plataformas.
+- 
+
+02. Requesitos Funcionais:
+Antes de inicar as configuracoes do aplicativo, e inciar o jogo,é de extrema importancia que o usuario esteja ciente dos termos de uso em relacao ao aplicativo e ao sistema.
+- Primeiramente é necessario que o usuairo possua cadastro na plataforma para que assim,consiga de maneira mais adequada, utilizar o aplicativo. Caso o usuario ainda nao esteja cadastrado no aplicativo,é indicado que seja cadastrado.
+- Apresentar uma animaçao visivel e de boa qualidade incluindo dados(pontuacoes) sobre o jogo e tambem uma programacao adequada, que nao dificulte o acesso do usuairo(cliente) durante o tempo em que ele estiver utilizando do aplicativo.
+-  
+
+03. Requesitos nao funcionais:
+- Dentre os requesitos nao funcionais estao:Nao é necessario que a plataforma apresente a face real dos jogadores dentro do jogo(face hiumana); Apresente o memorial utilizado para a instalacao do jogo ao ser baixa ou alta; Modo de jogo onine; Variacao de plataformas e Utilizacao de conta pessaol. 
+
+casos de uso:
+
+04. Indentificacao de Atores: 
+- Usuario
+- Sistema - (Sistema Operacional)
+
+05. Casos de Uso Primarios:
+- Primeirante é indicado que apareca na tela do usuario o resultado de dados da partida anteriore em seguida quais sao os niveis disponiveis para se iniciar uma partida. Logo após quando o jogo ja tiver iniciado, sera indicado ao usuairo quais sao as tarefas e desafio que precisaram ser cumpridos em determinada partida.  
+
+06. Casos de uso secundarios:
+- Como casos de segundo uso é indicado que apareca no visor as opcoes de personalizacao do personagem, como: roupas, acessorios, estilo de cabelo, entre outros. Em seguida, antes mesmo de inciar-se a partida é desejado que o proprio sistema apresente um resumo de dados das partidas anteriores (conquistas, desafios, dificuldades encontradas), e diante disso inicia-se a partida 
+
+07. Diagrama de Casos de Uso:
+
+
+
+
+
+
+
+
+sistema:
+- Apresentar termos de uso. 
+- Verificar cadastro do usuario dentro do aplicativo.
+-  Apresentar um resumo eplicativo de como funciona o jogo.
+- Apresentar dados e caracteristicas do jogo e dos personagens.
+- Indicar painel de configuracoes 
+- iniciar o jogo 
+- 
+
+usuario:
+- Verificar cadastro dentro do aplicativo.
+- Aceitar os termos de uso.
+- Configurar(escolher) partida que deseja jogar
+- Configurar + Selecionar jogadores dentro da partida
+- Iniciar partida, apos confirmar configuracoes gerai 
+
